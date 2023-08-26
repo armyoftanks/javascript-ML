@@ -1,0 +1,18 @@
+{
+  "name": "jsml",
+  "version": "1.0.0",
+  "description": "jsml",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/armyoftanks/javascript-ML"
+  },
+  "keywords": [
+    "ML"
+  ],
+  "author": "ROMINA + CHATGPT",
+  "license": "ISC"
+}
